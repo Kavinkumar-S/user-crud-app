@@ -1,0 +1,16 @@
+.user-container{
+  /* background: #f90; */
+  /* padding: 10px; */
+}
+.close-btn{
+  background: #dc3545;
+  font-size: 14px;
+  color: #fff;
+  width: 16px;
+  text-align: center;
+  cursor: pointer;
+  margin-top: 12px;
+}
+p {
+  margin-bottom: 0rem;
+}
